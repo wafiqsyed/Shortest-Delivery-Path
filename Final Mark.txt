@@ -1,0 +1,43 @@
+CS1027b Marksheet
+Assignment 3
+-----------------
+Student Name:Syed Rahmathulla, Wafiq
+Student Id:wsyedrah
+
+TA name:Debanjan Guha Roy
+TA email:dguharoy@uwo.ca
+
+Program Design and Implementation 
+  All methods and instance variables in DPriorityNode.java 
+  and DLinkedPriorityQueue.java are implemented as 
+  required. 4(4 marks)
+
+  All methods in FindShortestPath.java are implemented as 
+  required. 3(3 marks)
+
+Programming Style
+
+  i) Meaningful names for variables and constants 
+     All instance variables are private
+     Only public methods are as specified in assignment
+     1.5(1.5 marks)
+
+ ii) Readability 
+     Good indentation
+     0.5(0.5 marks)
+
+iii) Comments 
+     Instance variables and methods     
+     Comments within code to explain algorithms implemented
+     1.5(2 marks)* javadoc missing
+
+Testing
+  i) PriorityQueue tests 5(5 marks)
+
+ ii) FindShortestPath tests 4(4 marks)
+
+iii) Bonus test 0(1 mark) * wrong path
+
+Late penalty:0
+Total: 19.5
+   
